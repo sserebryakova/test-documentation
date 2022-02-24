@@ -18,6 +18,8 @@
 ![Confluence](images/8.png)
 ![Confluence](images/9.png)
 
+## Тест-кейс.
+![Confluence](images/тест-кейс.png)
 # TestIT
 ## Создала и внесла тест-кейсы в TestIT в проект.
 
